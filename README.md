@@ -19,12 +19,12 @@ This is an online platform where I display my photos for others to see.A user ca
 * Clone Project to your machine
 * Activate a virtual environment on terminal: `source virtual/bin/activate`
 * Install all the requirements found in requirements file.
-* On your terminal run `python3.6 manage.py runserver`
+* On your terminal run `python3.8 manage.py runserver`
 * Access the live site using the local host provided
 
 
 #### Prerequisites
-1. [Python3.6](https://www.python.org/downloads/)
+1. [Python3.8](https://www.python.org/downloads/)
 
 2. [virtualenv](https://virtualenv.pypa.io/en/stable/installation/)
 3. [pip](https://pip.pypa.io/en/stable/installing/)
