@@ -51,7 +51,7 @@ git remote add origin <your-repository-url>
 
 #### Create and activate the virtual environment
 ```bash
-python3.6 -m virtualenv virtual
+python3.8 -m virtualenv virtual
 ```
 
 ```bash
