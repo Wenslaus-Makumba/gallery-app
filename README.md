@@ -1,17 +1,17 @@
 # Personal Gallery
 
-#### By [cynthiaoduol](https://github.com/cynthiaoduol)
+
 
 
 ## Description
 This is an online platform where I display my photos for others to see.A user can click on an image to view the image details. A user can also copy an image link. 
 
 #### Github link
-https://github.com/cynthiaoduol/Gallery.git
+
 
 
 #### Link to live site
-https://cynthiagallery.herokuapp.com/
+
 
 
 ## Setup and installations
@@ -39,7 +39,7 @@ https://cynthiagallery.herokuapp.com/
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/cynthiaoduol/Gallery.git
+
 ```
 #### Initialize git and add the remote repository
 ```bash
