@@ -8,11 +8,11 @@ This is an online platform where I display my photos for others to see.A user ca
 
 #### Github link
 
-
+https://github.com/Wenslaus-Makumba/gallery-app
 
 #### Link to live site
 
-
+https://afternoon-forest-43266.herokuapp.com/
 
 ## Setup and installations
 * Fork the data onto your own personal repository.
