@@ -1,4 +1,4 @@
-#!/home/moringaschool/Documents/moringa-school-projects/Personal-gallery/virtual/bin/python
+#!/home/moringa/Desktop/django/Gallery-app/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

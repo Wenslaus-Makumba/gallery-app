@@ -7,7 +7,7 @@
     {% if images%}
     <h2 style="color: blanchedalmond">Found {{ images|length }} images for this category</h2>
     {% else %}
-    <h2 class="text-center" style="color: blanchedalmond;font-size:40px;padding-top: 150px"> Sorry! There are no Images for this category</h2>
+    <h2 class="text-center" style="color: blanchedalmond;font-size:40px;padding-top: 150px"> Sorry! we cannot find Images for this category</h2>
     {% endif %}
 
   </div>
@@ -43,7 +43,7 @@
             <p class="card-text cate">Category: {{image.image_category}}</p>
             <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 padding-1 ">
               <input id="link" class="form-control input-md responsive" type="text"
-                value="https://cynthiagallery.herokuapp.com{{image.image.url}}">
+                value="https://wenslausgallery.herokuapp.com{{image.image.url}}">
             </div>
             <button type="button" class="btn btn-primary" onclick="copyaction()">Copy Link</button>
           </div>
