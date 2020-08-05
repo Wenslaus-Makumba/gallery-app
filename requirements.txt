@@ -5,3 +5,4 @@ Django==1.11
 django-bootstrap3==11.1.0
 pycodestyle==2.5.0
 pytz==2019.3
+whitenoise==5.2.0
